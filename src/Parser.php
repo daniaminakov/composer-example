@@ -1,7 +1,5 @@
 <?php
 
-namespace daniltest\parser;
-
 /**
  * @author Danil
  */
