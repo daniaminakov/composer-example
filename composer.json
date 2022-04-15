@@ -1,0 +1,21 @@
+{
+    "name": "daniltest/composer-example-package",
+    "description": "Example project",
+    "type": "library",
+    "require": {
+        "php": "^7.0"
+    },
+    "license": "BSD-3-Ciause",
+    "autoload": {
+        "psr-4": {
+            "daniltest\\parser\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Danil Minakov",
+            "email": "danilminakov333@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
